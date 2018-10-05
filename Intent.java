@@ -1,1 +1,2 @@
+<Recycle View>
 <SplashScreen>
